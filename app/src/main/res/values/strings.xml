@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Cadastrei</string>
+    <string name="app_desc">Cadastro de Pessoa Física</string>
+    <string name="app_createdby">Desenvolvido por Mateus Miguel</string>
+    <string name="title_activity_fullscreen">Cadastrei</string>
+    <string name="btn_register">Cadastrar</string>
+    <string name="btn_viewregisters">Ver cadastros</string>
 </resources>
