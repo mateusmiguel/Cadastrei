@@ -5,4 +5,13 @@
     <string name="title_activity_fullscreen">Cadastrei</string>
     <string name="btn_register">Cadastrar</string>
     <string name="btn_viewregisters">Ver cadastros</string>
+    <string name="name">Nome</string>
+    <string name="phone">Telefone</string>
+    <string name="cpf">CPF</string>
+    <string name="age">Idade</string>
+    <string name="email">E-mail</string>
+    <string name="insert_data">Inserir dados</string>
+    <string name="view_data">Listar registros</string>
+    <string name="back">Voltar</string>
+
 </resources>
